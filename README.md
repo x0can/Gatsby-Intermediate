@@ -7,7 +7,7 @@ A Frontend Masters workshop.
 Clone this repo locally:
 
 ```
-git clone git@github.com:jlengstorf/gatsby-intermediate.git
+git clone git@github.com:alexmwaura/Gatsby-Intermediate.git
 ```
 
 Make sure you’re on the `start` branch:
